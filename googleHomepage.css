@@ -1,0 +1,39 @@
+body, a {
+	font-family: arial, sans-serif;
+	text-decoration: none;
+	font-size: 13px;
+}
+
+#navBar {
+	width: 100%;
+	text-align: right;
+}
+
+#navBar ul li {
+	list-style-type: none;
+	display: inline-block;
+}
+
+#logo {
+	width: 272px;
+	height: 92px;
+	margin: 0 auto;
+	margin-top: 89px;
+	display: block;
+}
+
+#searchBox input {
+	width: 617px;
+	height: 28px;
+	margin: 0 auto;
+	display: block;
+	
+}
+
+#middleButtons{
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+
